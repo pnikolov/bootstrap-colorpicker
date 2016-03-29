@@ -1,22 +1,23 @@
-# Bootstrap Colorpicker 2.0
+# Bootstrap Colorpicker 2.3
 
-[![Build Status](https://travis-ci.org/mjolnic/bootstrap-colorpicker.png)](https://travis-ci.org/mjolnic/bootstrap-colorpicker)
+A nice and customizable colorpicker plugin for Twitter Bootstrap
 
-Originally written by [Stefan Petre](http://www.eyecon.ro/)
-
-Read the documentation [here](http://mjolnic.github.io/bootstrap-colorpicker/)
-
-**Check the new  [3.0 version development status](https://github.com/mjolnic/bootstrap-colorpicker/pull/88)**
+[![Join the chat at https://gitter.im/mjolnic/bootstrap-colorpicker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mjolnic/bootstrap-colorpicker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/mjolnic/bootstrap-colorpicker.png)](https://travis-ci.org/mjolnic/bootstrap-colorpicker)
  
-## Contributing
+## Installation
+For downloading the source code, you have many choices:
 
-* All the sources are compiled using Grunt, please do not modify dist files directly
-* If you modify some source code, please recompile the project dist files
-* Check that the index.html demos aren't broken (modify if necessary)
-* Test your code at least in Chrome, Firefox and IE >= 10
+- Downloading the [latest source code ZIP file](https://github.com/mjolnic/bootstrap-colorpicker/archive/master.zip)
+- Cloning: `git clone https://github.com/mjolnic/bootstrap-colorpicker.git`
+- Installing via: `bower install mjolnic-bootstrap-colorpicker`
+- Installing via: `npm install bootstrap-colorpicker`
 
-Thanks =)
+## Getting started
+- For using the plugin you will only need the files under the `dist` folder
+- You can read the [documentation here](http://mjolnic.github.io/bootstrap-colorpicker/)
 
+## Contributing and reporting issues
+If you want to contribute to the source code or report issues and suggestions, please read the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines first.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mjolnic/bootstrap-colorpicker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+## Credits
+Originally written by [Stefan Petre](http://www.eyecon.ro/)
